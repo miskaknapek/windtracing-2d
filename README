@@ -1,0 +1,19 @@
+
+date started:  090911
+
+name:   windtracing 2 - paris version ( 20100215 )
+
+[ prerequisites for running:   the Processing programming environment - get it here: http://processing.org/download ]
+
+This sketch traces wind movement.
+The thinner line usually starting at the top left shows longer-term wind movements, moving in the compass direction that the wind blows in.
+The larger line starting at the screen centre is a zoomed in view of the current wind blowing - with the historical data tracing back, as it were.
+
+keys/usage:
+relax and watch :) 
+otherwise:
+shift             - pauses/resumes playback
+arrow left/right  - set playback to go backwards or forwards
+[ / ]             - to skip backwards/forwards one week in time.
+
+
